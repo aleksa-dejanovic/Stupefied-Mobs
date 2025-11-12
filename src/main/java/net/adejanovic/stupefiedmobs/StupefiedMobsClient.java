@@ -21,11 +21,4 @@ public class StupefiedMobsClient {
         // Do not forget to add translations for your config options to the en_us.json file.
         container.registerExtensionPoint(IConfigScreenFactory.class, ConfigurationScreen::new);
     }
-
-    @SubscribeEvent
-    static void onClientSetup(FMLClientSetupEvent event) {
-        // Some client setup code
-        StupefiedMobs.LOGGER.info("HELLO FROM CLIENT SETUP");
-        StupefiedMobs.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
-    }
 }

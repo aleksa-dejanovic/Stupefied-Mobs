@@ -1,13 +1,10 @@
 {
-  "itemGroup.stupefiedmobs": "Example Mod Tab",
-  "block.stupefiedmobs.example_block": "Example Block",
-  "item.stupefiedmobs.example_item": "Example Item",
+  "stupefiedmobs.configuration": "Stupefied Mobs Configs",
 
-  "stupefiedmobs.configuration.title": "Stupefied Mobs Configs",
-  "stupefiedmobs.configuration.section.stupefiedmobs.common.toml": "Stupefied Mobs Configs",
-  "stupefiedmobs.configuration.section.stupefiedmobs.common.toml.title": "Stupefied Mobs Configs",
-  "stupefiedmobs.configuration.items": "Item List",
-  "stupefiedmobs.configuration.logDirtBlock": "Log Dirt Block",
-  "stupefiedmobs.configuration.magicNumberIntroduction": "Magic Number Text",
-  "stupefiedmobs.configuration.magicNumber": "Magic Number"
+  "stupefiedmobs.configuration.disabledNames": "Disabled Names",
+  "stupefiedmobs.configuration.disabledNames.tooltip": "List of mob name patterns to disable AI for (supports * wildcard)",
+  "stupefiedmobs.configuration.disableOnSpawn": "Disable on Spawn",
+  "stupefiedmobs.configuration.disableOnSpawn.tooltip": "Whether to disable AI when mobs spawn (recommended: true)",
+  "stupefiedmobs.configuration.logActions" : "Log actions",
+  "stupefiedmobs.configuration.logActions.tooltip" : "Log when AI is disabled for mobs (for developers)"
 }
