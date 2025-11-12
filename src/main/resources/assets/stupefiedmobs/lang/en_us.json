@@ -1,0 +1,13 @@
+{
+  "itemGroup.stupefiedmobs": "Example Mod Tab",
+  "block.stupefiedmobs.example_block": "Example Block",
+  "item.stupefiedmobs.example_item": "Example Item",
+
+  "stupefiedmobs.configuration.title": "Stupefied Mobs Configs",
+  "stupefiedmobs.configuration.section.stupefiedmobs.common.toml": "Stupefied Mobs Configs",
+  "stupefiedmobs.configuration.section.stupefiedmobs.common.toml.title": "Stupefied Mobs Configs",
+  "stupefiedmobs.configuration.items": "Item List",
+  "stupefiedmobs.configuration.logDirtBlock": "Log Dirt Block",
+  "stupefiedmobs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "stupefiedmobs.configuration.magicNumber": "Magic Number"
+}
