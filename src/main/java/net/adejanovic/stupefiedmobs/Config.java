@@ -19,7 +19,7 @@ public class Config {
                 .comment("List of mob name patterns to disable AI for (supports * wildcard)")
                 .defineListAllowEmpty(
                         List.of("disabledNames"),
-                        () -> Arrays.asList("*noai*", "*disabled*", "*passive*"),
+                        () -> Arrays.asList("*noai*", "*disabled*", "*passive*", "*stupefied*"),
                         obj -> obj instanceof String
                 );
 
